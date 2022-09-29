@@ -31,5 +31,4 @@ The Drawback I was able to determine is that the user must know specific dates, 
 ### Recommendations:
 
 1. to have more data that has more information including how many people were at the site, also add to the filter a trim function to catch spaces at the end of words as well as allow for upper and lower cases.
-2. 
-3. adding another filter to date range might be preferable than a singular date.
+2. adding another filter to date range might be preferable than a singular date.

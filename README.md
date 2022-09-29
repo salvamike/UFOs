@@ -13,11 +13,11 @@ All of the above allowed us to Create, populate, and dynamically filter a table 
 The view above is the main page of our newly created website for UFOs sightings.
 
 ### Filter Tab Main View:
-![alt text](https://github.com/salvamike/UFOs/blob/main/static/images/filtertabview.png)
+![alt text](https://github.com/salvamike/UFOs/blob/main/static/images/filtertabview2.png)
 After scrolling down through the website, to the right of the screen we are able to see the UFO sightings data, and to the left of the screen we are able to see the filter options, where we can filter by different categories.
 
 ### Filtering for Oregon State:
-![alt text](https://github.com/salvamike/UFOs/blob/main/static/images/filtertaborview.png)
+![alt text](https://github.com/salvamike/UFOs/blob/main/static/images/filtertaborview2.png)
 After situating ourselves in the filter section, we have selected a category to be filtered on, as you can see we have selected OREGON under State option.
 We can see that the website is fully functional since is displaying the right information.
 
